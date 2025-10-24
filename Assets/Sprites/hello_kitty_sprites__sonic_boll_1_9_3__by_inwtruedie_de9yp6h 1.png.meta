@@ -1,0 +1,4797 @@
+fileFormatVersion: 2
+guid: 674edd70765537c408ab66ae8e6add09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6800973826183200310
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_0
+  - first:
+      213: 1953043501895311305
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_1
+  - first:
+      213: 5654283487655697827
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_2
+  - first:
+      213: -7070655852002507711
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_3
+  - first:
+      213: -3320776518459126648
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_4
+  - first:
+      213: 84665475818916952
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_5
+  - first:
+      213: 547982603431200865
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_6
+  - first:
+      213: -4130896049014756229
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_7
+  - first:
+      213: 1948682992197945751
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_8
+  - first:
+      213: -3926395790969211768
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_9
+  - first:
+      213: 2824991960191125094
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_10
+  - first:
+      213: 3402355989536302791
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_11
+  - first:
+      213: -7051607150997956679
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_12
+  - first:
+      213: 7062045013284516525
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_13
+  - first:
+      213: -7226328897341679786
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_14
+  - first:
+      213: -2255610813020925961
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_15
+  - first:
+      213: 3115096827725732028
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_16
+  - first:
+      213: 3040976126356462702
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_17
+  - first:
+      213: 5486912912220759362
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_18
+  - first:
+      213: 4305450062895810299
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_19
+  - first:
+      213: 9222886427330777143
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_20
+  - first:
+      213: 843165261609294211
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_21
+  - first:
+      213: 8349758243818345907
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_22
+  - first:
+      213: -9199576479642010605
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_23
+  - first:
+      213: 20009262165444831
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_24
+  - first:
+      213: 576875450841406047
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_25
+  - first:
+      213: 97742177961152261
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_26
+  - first:
+      213: -5378448618374496741
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_27
+  - first:
+      213: 5341882842588662210
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_28
+  - first:
+      213: -6150362721993870398
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_29
+  - first:
+      213: -8367448352313900289
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_30
+  - first:
+      213: 4325153680808985064
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_31
+  - first:
+      213: -5990932263260548119
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_32
+  - first:
+      213: -633492366457256157
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_33
+  - first:
+      213: 5642551976043788497
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_34
+  - first:
+      213: 2576474814386612546
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_35
+  - first:
+      213: 5079099574763246773
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_36
+  - first:
+      213: 5346780413971145595
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_37
+  - first:
+      213: -5081999212998267166
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_38
+  - first:
+      213: 1580556312751908386
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_39
+  - first:
+      213: -70660025086484494
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_40
+  - first:
+      213: -5139893209571307985
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_41
+  - first:
+      213: -1115691393769780554
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_42
+  - first:
+      213: -823805760313248272
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_43
+  - first:
+      213: -1362609409609693441
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_44
+  - first:
+      213: 2932651181996695262
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_45
+  - first:
+      213: -274967450829118575
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_46
+  - first:
+      213: -7294805450029140981
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_47
+  - first:
+      213: -859316739825832018
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_48
+  - first:
+      213: 763579916601263347
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_49
+  - first:
+      213: 5933349491725256768
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_50
+  - first:
+      213: 3280581557127695279
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_51
+  - first:
+      213: -2289402963020081711
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_52
+  - first:
+      213: 3983138898457493044
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_53
+  - first:
+      213: -5991122774818142926
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_54
+  - first:
+      213: 1248869182356648681
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_55
+  - first:
+      213: 3173532817580262266
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_56
+  - first:
+      213: -4588850404152150258
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_57
+  - first:
+      213: 2124609138145753499
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_58
+  - first:
+      213: -7137255906858117617
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_59
+  - first:
+      213: 7392159491777831878
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_60
+  - first:
+      213: -1873870405415174403
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_61
+  - first:
+      213: -1833584907440360949
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_62
+  - first:
+      213: 8819202277078048197
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_63
+  - first:
+      213: 8109841879732527073
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_64
+  - first:
+      213: -2694360927881573802
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_65
+  - first:
+      213: -3187077673979135377
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_66
+  - first:
+      213: 6953295200292691493
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_67
+  - first:
+      213: 4721287116097462523
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_68
+  - first:
+      213: 8961127505407498145
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_69
+  - first:
+      213: -1220304043680622112
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_70
+  - first:
+      213: 986710977947951418
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_71
+  - first:
+      213: 5576031983964018770
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_72
+  - first:
+      213: -8823714042261146778
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_73
+  - first:
+      213: 3116968589508590423
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_74
+  - first:
+      213: 8556775916727281765
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_75
+  - first:
+      213: 2212877639388722193
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_76
+  - first:
+      213: -6294863178914397100
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_77
+  - first:
+      213: 773527075899819852
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_78
+  - first:
+      213: -322887246346058774
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_79
+  - first:
+      213: -314773859983397273
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_80
+  - first:
+      213: 387584504939517313
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_81
+  - first:
+      213: 91559841266458301
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_82
+  - first:
+      213: 8484716807422138560
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_83
+  - first:
+      213: 1843385983089198733
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_84
+  - first:
+      213: -6938157656919188504
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_85
+  - first:
+      213: -936157968928979526
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_86
+  - first:
+      213: 9190455438935908254
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_87
+  - first:
+      213: -8843684440917773423
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_88
+  - first:
+      213: 1328690887943655863
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_89
+  - first:
+      213: 6108679372580525565
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_90
+  - first:
+      213: 3938375009517777070
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_91
+  - first:
+      213: 4505223822932344413
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_92
+  - first:
+      213: -6707143208839464152
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_93
+  - first:
+      213: -4405170162240764664
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_94
+  - first:
+      213: 1383340719348170447
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_95
+  - first:
+      213: -9042542773115386567
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_96
+  - first:
+      213: 596713127849773068
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_97
+  - first:
+      213: 1731803928189026897
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_98
+  - first:
+      213: 2765909749443783818
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_99
+  - first:
+      213: -6416875619223987543
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_100
+  - first:
+      213: 7253504564861619600
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_101
+  - first:
+      213: 4039004830238504504
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_102
+  - first:
+      213: -2827064515925061619
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_103
+  - first:
+      213: -6966740120368857931
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_104
+  - first:
+      213: 1108749311664842147
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_105
+  - first:
+      213: -5217658528061097495
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_106
+  - first:
+      213: -6806120482398042188
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_107
+  - first:
+      213: 948989555045663142
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_108
+  - first:
+      213: 141309258828653119
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_109
+  - first:
+      213: 6177311772081484666
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_110
+  - first:
+      213: -1943975147520648011
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_111
+  - first:
+      213: 9083537470354039918
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_112
+  - first:
+      213: 777732289470527849
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_113
+  - first:
+      213: 1142471832657514524
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_114
+  - first:
+      213: 6139276615051209040
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_115
+  - first:
+      213: -8708211944317560699
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_116
+  - first:
+      213: -3912704764239570128
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_117
+  - first:
+      213: 190340768031460143
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_118
+  - first:
+      213: 6677722423684982841
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_119
+  - first:
+      213: 6800698344143273049
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_120
+  - first:
+      213: -7973071945747295372
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_121
+  - first:
+      213: -3754860529322318443
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_122
+  - first:
+      213: 1538743883032615862
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_123
+  - first:
+      213: -2144307768204231967
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_124
+  - first:
+      213: -6271328192879176047
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_125
+  - first:
+      213: -2043569365642866039
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_126
+  - first:
+      213: -258976307179823507
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_127
+  - first:
+      213: -581677348833361028
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_128
+  - first:
+      213: 3531716239551524304
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_129
+  - first:
+      213: 6897557362394866542
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_130
+  - first:
+      213: 92418506109452487
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_131
+  - first:
+      213: 2928407352068140866
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_132
+  - first:
+      213: 8541772994597495919
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_133
+  - first:
+      213: 138750275924889842
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_134
+  - first:
+      213: -6702848710942792075
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_135
+  - first:
+      213: 3150286962709162729
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_136
+  - first:
+      213: 6617047029498344511
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_137
+  - first:
+      213: 5452551099586746986
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_138
+  - first:
+      213: 5163924028946400142
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_139
+  - first:
+      213: -7055677501758008203
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_140
+  - first:
+      213: -6904355982841370464
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_141
+  - first:
+      213: 4139367498969788546
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_142
+  - first:
+      213: -2398675410270405179
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_143
+  - first:
+      213: 1930043433773941622
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_144
+  - first:
+      213: 2209591496982099861
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_145
+  - first:
+      213: -3486017587709453845
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_146
+  - first:
+      213: 7238827703825897137
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_147
+  - first:
+      213: 4165225092219864885
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_148
+  - first:
+      213: -5822226503356664243
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_149
+  - first:
+      213: -9183786229272618940
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_150
+  - first:
+      213: 3033288978852452175
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_151
+  - first:
+      213: 2960295452161634425
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_152
+  - first:
+      213: -352849731969282656
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_153
+  - first:
+      213: 4212718584140402565
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_154
+  - first:
+      213: 160777432787545515
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_155
+  - first:
+      213: -2700764486560073633
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_156
+  - first:
+      213: 3712291668328524056
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_157
+  - first:
+      213: -1812932463207169395
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_158
+  - first:
+      213: 3322184539990318403
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_159
+  - first:
+      213: -3029821645666650936
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_160
+  - first:
+      213: -9213994153097656644
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_161
+  - first:
+      213: 6044321437271219826
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_162
+  - first:
+      213: -6642376776346065316
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_163
+  - first:
+      213: -3531737714393104730
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_164
+  - first:
+      213: -186105706914995298
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_165
+  - first:
+      213: 4681040273722933486
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_166
+  - first:
+      213: 2600777840643425906
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_167
+  - first:
+      213: 3956814996406133968
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_168
+  - first:
+      213: -8619187154658167392
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_169
+  - first:
+      213: 2320674406531753634
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_170
+  - first:
+      213: -6124605771851748519
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_171
+  - first:
+      213: -82807669342038540
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_172
+  - first:
+      213: 5203662959657246766
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_173
+  - first:
+      213: -679439277111801815
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_174
+  - first:
+      213: -6572513030426400174
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_175
+  - first:
+      213: -1301375720212092372
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_176
+  - first:
+      213: -1698296659231904908
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_177
+  - first:
+      213: -4621495069367618652
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_178
+  - first:
+      213: 4253394815293876245
+    second: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_179
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 33
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 378
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac10f9396561e91a0800000000000000
+      internalID: -6800973826183200310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 378
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfda51a7ba9a1b10800000000000000
+      internalID: 1953043501895311305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 378
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad1315dfdc087e40800000000000000
+      internalID: 5654283487655697827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 378
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1448a5ce6fbffdd90800000000000000
+      internalID: -7070655852002507711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 350
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c09c6c95b3ae1d0800000000000000
+      internalID: -3320776518459126648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 350
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c0dea3dcacc2100800000000000000
+      internalID: 84665475818916952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 350
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1684c944643da9700800000000000000
+      internalID: 547982603431200865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 350
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c296a0eeb1ca6c0800000000000000
+      internalID: -4130896049014756229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 350
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799cdc95bdc1b0b10800000000000000
+      internalID: 1948682992197945751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 350
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884f0bfb4d3a289c0800000000000000
+      internalID: -3926395790969211768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 350
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666c6886833643720800000000000000
+      internalID: 2824991960191125094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 350
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6ebbbfeb8973f20800000000000000
+      internalID: 3402355989536302791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 343
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7992d38a8a32e90800000000000000
+      internalID: -7051607150997956679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_13
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 343
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da274a4f58c610260800000000000000
+      internalID: 7062045013284516525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_14
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 342
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6571fc3972ce6bb90800000000000000
+      internalID: -7226328897341679786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 342
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff8b529ae572b0e0800000000000000
+      internalID: -2255610813020925961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_16
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 342
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8d9817f0c0b3b20800000000000000
+      internalID: 3115096827725732028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_17
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 341
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c9be5dca7b33a20800000000000000
+      internalID: 3040976126356462702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_18
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 341
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2452c66093e652c40800000000000000
+      internalID: 5486912912220759362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_19
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 341
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6861d550800cb30800000000000000
+      internalID: 4305450062895810299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_20
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 343
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73092d837564eff70800000000000000
+      internalID: 9222886427330777143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_21
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 343
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389db21965683bb00800000000000000
+      internalID: 843165261609294211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_22
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 342
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b59e2342ec40e370800000000000000
+      internalID: 8349758243818345907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_23
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 342
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c36e6eee9845080800000000000000
+      internalID: -9199576479642010605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_24
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 342
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8c6936156174000800000000000000
+      internalID: 20009262165444831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_25
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 341
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a9b078a29710800800000000000000
+      internalID: 576875450841406047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_26
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 341
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f82f43eff3b5100800000000000000
+      internalID: 97742177961152261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_27
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 341
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ef8135a79eb55b0800000000000000
+      internalID: -5378448618374496741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 318
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c94040942e222a40800000000000000
+      internalID: 5341882842588662210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 314
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c330cbb0b585aaa0800000000000000
+      internalID: -6150362721993870398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 318
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff207e36e0ad0eb80800000000000000
+      internalID: -8367448352313900289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 318
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1c7976b58060c30800000000000000
+      internalID: 4325153680808985064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 318
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e39dee09deebdca0800000000000000
+      internalID: -5990932263260548119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_33
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 318
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327c4619c026537f0800000000000000
+      internalID: -633492366457256157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 318
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8b4ce602f5e4e40800000000000000
+      internalID: 5642551976043788497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_35
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 303
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2492144613a71c320800000000000000
+      internalID: 2576474814386612546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_36
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 302
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4d99c27269c7640800000000000000
+      internalID: 5079099574763246773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_37
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 302
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7324c24574933a40800000000000000
+      internalID: 5346780413971145595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_38
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 303
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee6c6034ac1979b0800000000000000
+      internalID: -5081999212998267166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_39
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 303
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2262411a7934fe510800000000000000
+      internalID: 1580556312751908386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_40
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 303
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff56e0e417f40ff0800000000000000
+      internalID: -70660025086484494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_41
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 303
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e4f04bb5e6ba8b0800000000000000
+      internalID: -5139893209571307985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_42
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 303
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba446ba6944480f0800000000000000
+      internalID: -1115691393769780554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_43
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 303
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5bb9496014194f0800000000000000
+      internalID: -823805760313248272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_44
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 302
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff60c9c16f9071de0800000000000000
+      internalID: -1362609409609693441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_45
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 302
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ededa0156bed2b820800000000000000
+      internalID: 2932651181996695262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_46
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 303
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19329807f8e1f2cf0800000000000000
+      internalID: -274967450829118575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_47
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 303
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04fd6db715a3ca90800000000000000
+      internalID: -7294805450029140981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_48
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 303
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf622d5af71314f0800000000000000
+      internalID: -859316739825832018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_49
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 303
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f404a673e7c89a00800000000000000
+      internalID: 763579916601263347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_50
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 303
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048478e2ded775250800000000000000
+      internalID: 5933349491725256768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_51
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 286
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab4b418b87f68d20800000000000000
+      internalID: 3280581557127695279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 286
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5167982286a30e0800000000000000
+      internalID: -2289402963020081711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_53
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 284
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e799d79b3f64730800000000000000
+      internalID: 3983138898457493044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 286
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235463124914bdca0800000000000000
+      internalID: -5991122774818142926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_55
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 286
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2fc4197efd45110800000000000000
+      internalID: 1248869182356648681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 286
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a738ae29847aa0c20800000000000000
+      internalID: 3173532817580262266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_57
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 286
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e077a15ced02150c0800000000000000
+      internalID: -4588850404152150258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_58
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 286
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99f9b521c02c7d10800000000000000
+      internalID: 2124609138145753499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_59
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 266
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06d9a8419f53fc90800000000000000
+      internalID: -7137255906858117617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_60
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 262
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3237674e9369660800000000000000
+      internalID: 7392159491777831878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_61
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 263
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe7c126bccaef5e0800000000000000
+      internalID: -1873870405415174403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_62
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 262
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02ff7ecd3ccd86e0800000000000000
+      internalID: -1833584907440360949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_63
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 262
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd9d8faeb9146a70800000000000000
+      internalID: 8819202277078048197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_64
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 266
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef1b0ac832fb8070800000000000000
+      internalID: 8109841879732527073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_65
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 266
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a4dece205bb9ad0800000000000000
+      internalID: -2694360927881573802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_66
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 266
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a35eacdb935c3d0800000000000000
+      internalID: -3187077673979135377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_67
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 266
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52edfdff4211f7060800000000000000
+      internalID: 6953295200292691493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_68
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 262
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf02e9d1e91658140800000000000000
+      internalID: 4721287116097462523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_69
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 263
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7dbc2fcf15c5c70800000000000000
+      internalID: 8961127505407498145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_70
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 262
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9917e00fb901fe0800000000000000
+      internalID: -1220304043680622112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_71
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 262
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31e098186081bd00800000000000000
+      internalID: 986710977947951418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_72
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 266
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258546cdb8b026d40800000000000000
+      internalID: 5576031983964018770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_73
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 266
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663f56f14dedb8580800000000000000
+      internalID: -8823714042261146778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_74
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 266
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bb5b1fa62b14b20800000000000000
+      internalID: 3116968589508590423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_75
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 254
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568a52b4c56cfb670800000000000000
+      internalID: 8556775916727281765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_76
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 254
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1147b2b1d78b5be10800000000000000
+      internalID: 2212877639388722193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_77
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 254
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4540f175a4724a8a0800000000000000
+      internalID: -6294863178914397100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_78
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 254
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47c727f6ce1cba00800000000000000
+      internalID: 773527075899819852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_79
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 254
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae30a0b92cfd48bf0800000000000000
+      internalID: -322887246346058774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 254
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e6c1397d2b1abf0800000000000000
+      internalID: -314773859983397273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_81
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 254
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1859d51cd0af06500800000000000000
+      internalID: 387584504939517313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_82
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 254
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbed066c039454100800000000000000
+      internalID: 91559841266458301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_83
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 224
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8de2e7bf4cfb570800000000000000
+      internalID: 8484716807422138560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_84
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 223
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8647f1f8c5059910800000000000000
+      internalID: 1843385983089198733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_85
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 224
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebdca7fe56b6bf90800000000000000
+      internalID: -6938157656919188504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_86
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 223
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5465889491203f0800000000000000
+      internalID: -936157968928979526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_87
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 224
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fd4d1578e0b8f70800000000000000
+      internalID: 9190455438935908254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_88
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 223
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19372795bdbe44580800000000000000
+      internalID: -8843684440917773423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_89
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 224
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b11e28a255707210800000000000000
+      internalID: 1328690887943655863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_90
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 223
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df51b61368366c450800000000000000
+      internalID: 6108679372580525565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_91
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 224
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0359a643be7a630800000000000000
+      internalID: 3938375009517777070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_92
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 223
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e728f7235c58e30800000000000000
+      internalID: 4505223822932344413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_93
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 224
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b337b99c07be2a0800000000000000
+      internalID: -6707143208839464152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_94
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 223
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8054d78b311bdd2c0800000000000000
+      internalID: -4405170162240764664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_95
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 224
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fceb4141e0d923310800000000000000
+      internalID: 1383340719348170447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_96
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 223
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9358e2ed14f628280800000000000000
+      internalID: -9042542773115386567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_97
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 224
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c084c42ad63f74800800000000000000
+      internalID: 596713127849773068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_98
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 223
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15245584f7a980810800000000000000
+      internalID: 1731803928189026897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_99
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 222
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ce260434c726620800000000000000
+      internalID: 2765909749443783818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 222
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa1a445f9da2f6a0800000000000000
+      internalID: -6416875619223987543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_101
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 222
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d404598ff99a460800000000000000
+      internalID: 7253504564861619600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_102
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 222
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836f3785e7d6d0830800000000000000
+      internalID: 4039004830238504504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_103
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 222
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00dc2b1dcf34c8d0800000000000000
+      internalID: -2827064515925061619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 222
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcb3fa95ca215f90800000000000000
+      internalID: -6966740120368857931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_105
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 222
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5edb2ef91136f00800000000000000
+      internalID: 1108749311664842147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_106
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 222
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e971ab86372797b0800000000000000
+      internalID: -5217658528061097495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_107
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 188
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7872c4b7dcb81a0800000000000000
+      internalID: -6806120482398042188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_108
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 189
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a18d0ce8fc7b2d00800000000000000
+      internalID: 948989555045663142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_109
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 190
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32a4ffa50806f100800000000000000
+      internalID: 141309258828653119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_110
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 189
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7371c1f3583ab550800000000000000
+      internalID: 6177311772081484666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_111
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 190
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc18d727ec9505e0800000000000000
+      internalID: -1943975147520648011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_112
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 189
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e642760e3353f0e70800000000000000
+      internalID: 9083537470354039918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_113
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 190
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969fd3c856f0bca00800000000000000
+      internalID: 777732289470527849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_114
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 189
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10d0772410eadf00800000000000000
+      internalID: 1142471832657514524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_115
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 184
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0596df9dd87133550800000000000000
+      internalID: 6139276615051209040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_116
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 183
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588532eef57362780800000000000000
+      internalID: -8708211944317560699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_117
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 184
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b95805fb743b9c0800000000000000
+      internalID: -3912704764239570128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_118
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 183
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b4ac88be934a200800000000000000
+      internalID: 190340768031460143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_119
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 184
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938676c0a290cac50800000000000000
+      internalID: 6677722423684982841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_120
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 183
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c3f33cc1fe06e50800000000000000
+      internalID: 6800698344143273049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_121
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 184
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4739919fe45f95190800000000000000
+      internalID: -7973071945747295372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_122
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 183
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595ab902e3e04ebc0800000000000000
+      internalID: -3754860529322318443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_123
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 184
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbd674b867ba5510800000000000000
+      internalID: 1538743883032615862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_124
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 183
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea73132273ed32e0800000000000000
+      internalID: -2144307768204231967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_125
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 184
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1965b894c34c7f8a0800000000000000
+      internalID: -6271328192879176047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_126
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 183
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9829cfe3d78c3a3e0800000000000000
+      internalID: -2043569365642866039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_127
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 184
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6edd45bb6ee76cf0800000000000000
+      internalID: -258976307179823507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_128
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 183
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7385e878877de7f0800000000000000
+      internalID: -581677348833361028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_129
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 184
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd62f1453d230130800000000000000
+      internalID: 3531716239551524304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_130
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 183
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e632d6350eb09bf50800000000000000
+      internalID: 6897557362394866542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_131
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 156
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c083534426584100800000000000000
+      internalID: 92418506109452487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_132
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 156
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fe9a9a8fac3a820800000000000000
+      internalID: 2928407352068140866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_133
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 158
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64220748497a8670800000000000000
+      internalID: 8541772994597495919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_134
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 158
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f09dfc04a0fce100800000000000000
+      internalID: 138750275924889842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_135
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 158
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576e1115c92baf2a0800000000000000
+      internalID: -6702848710942792075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 158
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eae2d83d4118bb20800000000000000
+      internalID: 3150286962709162729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_137
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 158
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f347d47f63974db50800000000000000
+      internalID: 6617047029498344511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_138
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 158
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a9882165a5bab40800000000000000
+      internalID: 5452551099586746986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_139
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 143
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8344707b81f9a740800000000000000
+      internalID: 5163924028946400142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_140
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 143
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5749ff9d1b2351e90800000000000000
+      internalID: -7055677501758008203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_141
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 143
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8a5ef70dcce20a0800000000000000
+      internalID: -6904355982841370464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_142
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 143
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28034ea1fccf17930800000000000000
+      internalID: 4139367498969788546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_143
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 143
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd3e5f4c6136bed0800000000000000
+      internalID: -2398675410270405179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_144
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 143
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673cb27f644e8ca10800000000000000
+      internalID: 1930043433773941622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_145
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 143
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597775472cb0aae10800000000000000
+      internalID: 2209591496982099861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_146
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 143
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be950d3497d2f9fc0800000000000000
+      internalID: -3486017587709453845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_147
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 143
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b69cc4917b757460800000000000000
+      internalID: 7238827703825897137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_148
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 143
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5370f4f272addc930800000000000000
+      internalID: 4165225092219864885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_149
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 143
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46bf89b7db433fa0800000000000000
+      internalID: -5822226503356664243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_150
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 143
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448d41f0513ac8080800000000000000
+      internalID: -9183786229272618940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_151
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 143
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f479b955148681a20800000000000000
+      internalID: 3033288978852452175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_152
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 143
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9707c488705151920800000000000000
+      internalID: 2960295452161634425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_153
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 143
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad01eac90d6a1bf0800000000000000
+      internalID: -352849731969282656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_154
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 143
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f006a7b35967a30800000000000000
+      internalID: 4212718584140402565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_155
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 127
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad633929323b3200800000000000000
+      internalID: 160777432787545515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_156
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 126
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58b89c3205f48ad0800000000000000
+      internalID: -2700764486560073633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_157
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 127
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8192d519a95b48330800000000000000
+      internalID: 3712291668328524056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_158
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 126
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8243c0b78b27d6e0800000000000000
+      internalID: -1812932463207169395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_159
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 127
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dda68cc35ca1e20800000000000000
+      internalID: 3322184539990318403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_160
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 126
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4ff351449e3f5d0800000000000000
+      internalID: -3029821645666650936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_161
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 126
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb68616b221512080800000000000000
+      internalID: -9213994153097656644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_162
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 126
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e54d0b25eb1e350800000000000000
+      internalID: 6044321437271219826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_163
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 103
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56a695c38981d3a0800000000000000
+      internalID: -6642376776346065316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_164
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 103
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aebfbdb24fbcfec0800000000000000
+      internalID: -3531737714393104730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_165
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 103
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93a8a878d1da6df0800000000000000
+      internalID: -186105706914995298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_166
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 103
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee08d86e35566f040800000000000000
+      internalID: 4681040273722933486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_167
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 104
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2764243aaa1d71420800000000000000
+      internalID: 2600777840643425906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_168
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 103
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4e9be664e69e630800000000000000
+      internalID: 3956814996406133968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_169
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 104
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a57df103fe726880800000000000000
+      internalID: -8619187154658167392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_170
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 103
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a66aa8c311b43020800000000000000
+      internalID: 2320674406531753634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_171
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 103
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b28730087010ba0800000000000000
+      internalID: -6124605771851748519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_172
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 103
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5903c0ddec9def0800000000000000
+      internalID: -82807669342038540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_173
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 103
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e206a3144ef173840800000000000000
+      internalID: 5203662959657246766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_174
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 103
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9288d49c3952296f0800000000000000
+      internalID: -679439277111801815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_175
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 104
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25aeec3b83eb9c4a0800000000000000
+      internalID: -6572513030426400174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_176
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 103
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2aa07d6da590fde0800000000000000
+      internalID: -1301375720212092372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_177
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 104
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bef37bf207e68e0800000000000000
+      internalID: -1698296659231904908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_178
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 103
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3bf1b58b62ddfb0800000000000000
+      internalID: -4621495069367618652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_179
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 705
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518641f8c08170b30800000000000000
+      internalID: 4253394815293876245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_0: -6800973826183200310
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_1: 1953043501895311305
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_10: 2824991960191125094
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_100: -6416875619223987543
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_101: 7253504564861619600
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_102: 4039004830238504504
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_103: -2827064515925061619
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_104: -6966740120368857931
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_105: 1108749311664842147
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_106: -5217658528061097495
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_107: -6806120482398042188
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_108: 948989555045663142
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_109: 141309258828653119
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_11: 3402355989536302791
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_110: 6177311772081484666
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_111: -1943975147520648011
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_112: 9083537470354039918
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_113: 777732289470527849
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_114: 1142471832657514524
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_115: 6139276615051209040
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_116: -8708211944317560699
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_117: -3912704764239570128
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_118: 190340768031460143
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_119: 6677722423684982841
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_12: -7051607150997956679
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_120: 6800698344143273049
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_121: -7973071945747295372
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_122: -3754860529322318443
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_123: 1538743883032615862
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_124: -2144307768204231967
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_125: -6271328192879176047
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_126: -2043569365642866039
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_127: -258976307179823507
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_128: -581677348833361028
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_129: 3531716239551524304
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_13: 7062045013284516525
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_130: 6897557362394866542
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_131: 92418506109452487
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_132: 2928407352068140866
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_133: 8541772994597495919
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_134: 138750275924889842
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_135: -6702848710942792075
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_136: 3150286962709162729
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_137: 6617047029498344511
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_138: 5452551099586746986
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_139: 5163924028946400142
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_14: -7226328897341679786
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_140: -7055677501758008203
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_141: -6904355982841370464
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_142: 4139367498969788546
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_143: -2398675410270405179
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_144: 1930043433773941622
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_145: 2209591496982099861
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_146: -3486017587709453845
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_147: 7238827703825897137
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_148: 4165225092219864885
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_149: -5822226503356664243
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_15: -2255610813020925961
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_150: -9183786229272618940
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_151: 3033288978852452175
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_152: 2960295452161634425
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_153: -352849731969282656
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_154: 4212718584140402565
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_155: 160777432787545515
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_156: -2700764486560073633
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_157: 3712291668328524056
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_158: -1812932463207169395
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_159: 3322184539990318403
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_16: 3115096827725732028
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_160: -3029821645666650936
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_161: -9213994153097656644
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_162: 6044321437271219826
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_163: -6642376776346065316
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_164: -3531737714393104730
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_165: -186105706914995298
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_166: 4681040273722933486
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_167: 2600777840643425906
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_168: 3956814996406133968
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_169: -8619187154658167392
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_17: 3040976126356462702
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_170: 2320674406531753634
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_171: -6124605771851748519
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_172: -82807669342038540
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_173: 5203662959657246766
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_174: -679439277111801815
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_175: -6572513030426400174
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_176: -1301375720212092372
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_177: -1698296659231904908
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_178: -4621495069367618652
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_179: 4253394815293876245
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_18: 5486912912220759362
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_19: 4305450062895810299
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_2: 5654283487655697827
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_20: 9222886427330777143
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_21: 843165261609294211
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_22: 8349758243818345907
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_23: -9199576479642010605
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_24: 20009262165444831
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_25: 576875450841406047
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_26: 97742177961152261
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_27: -5378448618374496741
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_28: 5341882842588662210
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_29: -6150362721993870398
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_3: -7070655852002507711
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_30: -8367448352313900289
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_31: 4325153680808985064
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_32: -5990932263260548119
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_33: -633492366457256157
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_34: 5642551976043788497
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_35: 2576474814386612546
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_36: 5079099574763246773
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_37: 5346780413971145595
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_38: -5081999212998267166
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_39: 1580556312751908386
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_4: -3320776518459126648
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_40: -70660025086484494
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_41: -5139893209571307985
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_42: -1115691393769780554
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_43: -823805760313248272
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_44: -1362609409609693441
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_45: 2932651181996695262
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_46: -274967450829118575
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_47: -7294805450029140981
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_48: -859316739825832018
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_49: 763579916601263347
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_5: 84665475818916952
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_50: 5933349491725256768
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_51: 3280581557127695279
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_52: -2289402963020081711
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_53: 3983138898457493044
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_54: -5991122774818142926
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_55: 1248869182356648681
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_56: 3173532817580262266
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_57: -4588850404152150258
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_58: 2124609138145753499
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_59: -7137255906858117617
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_6: 547982603431200865
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_60: 7392159491777831878
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_61: -1873870405415174403
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_62: -1833584907440360949
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_63: 8819202277078048197
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_64: 8109841879732527073
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_65: -2694360927881573802
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_66: -3187077673979135377
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_67: 6953295200292691493
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_68: 4721287116097462523
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_69: 8961127505407498145
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_7: -4130896049014756229
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_70: -1220304043680622112
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_71: 986710977947951418
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_72: 5576031983964018770
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_73: -8823714042261146778
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_74: 3116968589508590423
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_75: 8556775916727281765
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_76: 2212877639388722193
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_77: -6294863178914397100
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_78: 773527075899819852
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_79: -322887246346058774
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_8: 1948682992197945751
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_80: -314773859983397273
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_81: 387584504939517313
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_82: 91559841266458301
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_83: 8484716807422138560
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_84: 1843385983089198733
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_85: -6938157656919188504
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_86: -936157968928979526
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_87: 9190455438935908254
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_88: -8843684440917773423
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_89: 1328690887943655863
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_9: -3926395790969211768
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_90: 6108679372580525565
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_91: 3938375009517777070
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_92: 4505223822932344413
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_93: -6707143208839464152
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_94: -4405170162240764664
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_95: 1383340719348170447
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_96: -9042542773115386567
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_97: 596713127849773068
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_98: 1731803928189026897
+      hello_kitty_sprites__sonic_boll_1_9_3__by_inwtruedie_de9yp6h 1_99: 2765909749443783818
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
