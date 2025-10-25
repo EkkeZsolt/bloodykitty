@@ -1633,7 +1633,7 @@ Transform:
   m_GameObject: {fileID: 177985337}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 14.02, y: 3.04, z: 0}
+  m_LocalPosition: {x: 8.57, y: 5.44, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3677,11 +3677,10 @@ GameObject:
   - component: {fileID: 382067487}
   - component: {fileID: 382067486}
   - component: {fileID: 382067485}
-  - component: {fileID: 382067484}
   - component: {fileID: 382067483}
   m_Layer: 0
   m_Name: Enemy2
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3708,18 +3707,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &382067484
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 382067482}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2aec1282e7433bc4083b4ac90b9eaef6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Player
 --- !u!50 &382067485
 Rigidbody2D:
   serializedVersion: 5
@@ -3781,8 +3768,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.00000047683716, y: 0.03451264}
-  m_Size: {x: 0.75533676, y: 1.5620549}
+  m_Offset: {x: 0.00000047683716, y: -0.07504159}
+  m_Size: {x: 0.75533676, y: 0.904729}
   m_Direction: 0
 --- !u!212 &382067487
 SpriteRenderer:
@@ -3946,6 +3933,39 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 632982935}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &405146207
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 405146208}
+  m_Layer: 0
+  m_Name: SpawnPoints
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &405146208
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 405146207}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 6.99136, y: 1.06033, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 625330018}
+  - {fileID: 800522173}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &414709898
 GameObject:
@@ -6144,6 +6164,37 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &625330017
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 625330018}
+  m_Layer: 0
+  m_Name: SpawnPointPlayer1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &625330018
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 625330017}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -13.2, y: -6.98, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 405146208}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &625597131
 GameObject:
   m_ObjectHideFlags: 0
@@ -7820,6 +7871,37 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &800522172
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 800522173}
+  m_Layer: 0
+  m_Name: SpawnPointPlayer2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &800522173
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 800522172}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.34, y: -7.02, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 405146208}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &804943118
 GameObject:
   m_ObjectHideFlags: 0
@@ -9181,6 +9263,8 @@ GameObject:
   - component: {fileID: 908800892}
   - component: {fileID: 908800891}
   - component: {fileID: 908800890}
+  - component: {fileID: 908800893}
+  - component: {fileID: 908800894}
   m_Layer: 0
   m_Name: Gem
   m_TagString: Untagged
@@ -9277,12 +9361,46 @@ Transform:
   m_GameObject: {fileID: 908800889}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.52066, y: -0.41922, z: 0}
+  m_LocalPosition: {x: 0.52066, y: 0.8, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &908800893
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 908800889}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 862b4fe6a2542d648a53cb09021356ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Gem
+  nextSceneName: 
+--- !u!65 &908800894
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 908800889}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.9375, y: 0.8125, z: 0.2}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &911056940
 GameObject:
   m_ObjectHideFlags: 0
@@ -12676,7 +12794,7 @@ GameObject:
   - component: {fileID: 1220724007}
   m_Layer: 0
   m_Name: Player2
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12715,6 +12833,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2aec1282e7433bc4083b4ac90b9eaef6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Player
+  leftKey: 276
+  rightKey: 275
+  jumpKeyCode: 273
+  speed: 5
+  jumpForce: 15
+  spawnTransform: {fileID: 800522173}
+  stompVerticalThreshold: 0.3
+  stompBounce: 6
+  spawnPoint: {fileID: 800522173}
 --- !u!50 &1220724009
 Rigidbody2D:
   serializedVersion: 5
@@ -12776,8 +12903,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.00000047683716, y: 0.03451264}
-  m_Size: {x: 0.75533676, y: 1.5620549}
+  m_Offset: {x: 0.00000047683716, y: -0.04138857}
+  m_Size: {x: 0.75533676, y: 1.1825482}
   m_Direction: 0
 --- !u!212 &1220724011
 SpriteRenderer:
@@ -17327,7 +17454,7 @@ Transform:
   m_GameObject: {fileID: 1682054427}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 14.85, y: -0.7, z: 0}
+  m_LocalPosition: {x: 9.88, y: -0.7, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -18675,7 +18802,7 @@ GameObject:
   - component: {fileID: 1789264925}
   m_Layer: 0
   m_Name: Player1
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18741,8 +18868,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.00000047683716, y: 0.03451264}
-  m_Size: {x: 0.75533676, y: 1.5620549}
+  m_Offset: {x: 0.00000047683716, y: 0.015537322}
+  m_Size: {x: 0.75533676, y: 1.0686964}
   m_Direction: 0
 --- !u!212 &1789264922
 SpriteRenderer:
@@ -18829,6 +18956,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2aec1282e7433bc4083b4ac90b9eaef6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Player
+  leftKey: 97
+  rightKey: 100
+  jumpKeyCode: 119
+  speed: 5
+  jumpForce: 15
+  spawnTransform: {fileID: 625330018}
+  stompVerticalThreshold: 0.3
+  stompBounce: 6
+  spawnPoint: {fileID: 625330018}
 --- !u!95 &1789264925
 Animator:
   serializedVersion: 7
@@ -18967,7 +19103,7 @@ Transform:
   m_GameObject: {fileID: 1833391509}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.47, y: -3.77, z: 0}
+  m_LocalPosition: {x: -8.68, y: -3.77, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -24586,11 +24722,10 @@ GameObject:
   - component: {fileID: 2090967195}
   - component: {fileID: 2090967194}
   - component: {fileID: 2090967193}
-  - component: {fileID: 2090967192}
   - component: {fileID: 2090967191}
   m_Layer: 0
   m_Name: Enemy1
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24617,18 +24752,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &2090967192
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2090967190}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2aec1282e7433bc4083b4ac90b9eaef6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Player
 --- !u!50 &2090967193
 Rigidbody2D:
   serializedVersion: 5
@@ -24690,8 +24813,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.00000047683716, y: 0.03451264}
-  m_Size: {x: 0.75533676, y: 1.5620549}
+  m_Offset: {x: 0.00000047683716, y: -0.3240286}
+  m_Size: {x: 0.75533676, y: 0.8449724}
   m_Direction: 0
 --- !u!212 &2090967195
 SpriteRenderer:
@@ -25052,3 +25175,4 @@ SceneRoots:
   - {fileID: 908800892}
   - {fileID: 2090967196}
   - {fileID: 382067488}
+  - {fileID: 405146208}

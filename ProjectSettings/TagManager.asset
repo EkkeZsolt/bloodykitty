@@ -6,6 +6,8 @@ TagManager:
   tags:
   - PlatformCollider
   - MovingPlatform
+  - Trap
+  - Enemy
   layers:
   - Default
   - TransparentFX
