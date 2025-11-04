@@ -8,6 +8,10 @@ TagManager:
   - MovingPlatform
   - Trap
   - Enemy
+  - Gem
+  - Door
+  - EnemyCollider
+  - Ice
   layers:
   - Default
   - TransparentFX

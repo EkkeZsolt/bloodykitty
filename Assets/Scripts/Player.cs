@@ -17,16 +17,18 @@ public class Player : MonoBehaviour
     Vector2 direction;
 
 
-    // Ha beállítasz egy spawnTransform-et az Inspectorban, akkor azt használjuk.
-    // Ha nem, a Start() pillanatnyi pozícióját mentjük el.
     public Transform spawnTransform;
 
     //ráugrálás beállítás
-    public float stompVerticalThreshold = 0.3f; // mennyivel magasabban kell lennie a találónak
-    public float stompBounce = 6f; // mennyi visszapattanás kap a ráugró
+    public float stompVerticalThreshold = 0.3f; // mennyivel magasabban kell lennie a ráugrónak
+    public float stompBounce = 6f; // mennyi visszapattanást kap a ráugró
 
     public Transform spawnPoint;
-  
+
+    bool isOnIce = false;
+    public float iceSlideFactor = 0.98f; // minél közelebb 1-hez, annál csúszósabb
+
+
 
     void Start()
     {
@@ -42,14 +44,29 @@ public class Player : MonoBehaviour
         Debug.DrawRay(transform.position, Vector2.down * rayHeight, Color.red);
     }
 
+  
     private void FixedUpdate()
     {
-        rb.linearVelocity = new Vector2(direction.x * speed, rb.linearVelocity.y);
+        // alap mozgás
+        float targetSpeed = direction.x * speed;
+
+        if (isOnIce)
+        {
+            // ha jégen vagyunk, ne álljunk meg hirtelen — inkább interpoláljunk a jelenlegi sebesség felé
+            float smoothedX = Mathf.Lerp(rb.linearVelocity.x, targetSpeed, 0.02f);
+            rb.linearVelocity = new Vector2(smoothedX, rb.linearVelocity.y);
+        }
+        else
+        {
+            // normál mozgás
+            rb.linearVelocity = new Vector2(targetSpeed, rb.linearVelocity.y);
+        }
+    
+
     }
 
     void MovePlayer()
     {
-
 
         if (Input.GetKey(leftKey))
         {
@@ -62,7 +79,11 @@ public class Player : MonoBehaviour
             transform.localScale = new Vector3(1, 1, 1);
         } else
         {
-            direction = Vector2.zero;
+            if (!isOnIce)
+            {
+                direction = Vector2.zero;
+            }
+            
         }
 
 
@@ -89,8 +110,13 @@ public class Player : MonoBehaviour
             Die();
         }
 
+        if (collision.gameObject.CompareTag("Ice"))
+        {
+            isOnIce = true;
+        }
 
-        // csak másik Player-rel foglalkozunk
+
+        // csak olyannal foglalkozunk aminek a tagja Player
         if (!collision.gameObject.CompareTag("Player")) return;
 
         Player other = collision.gameObject.GetComponent<Player>();
@@ -99,7 +125,7 @@ public class Player : MonoBehaviour
         // Az elsõ kontaktus pontból megnézzük az ütközés normálját
         ContactPoint2D contact = collision.contacts[0];
 
-        // Ha a normál felfelé mutat, akkor én felülrõl érkeztem
+        // Ha a normálvektor felfele mutat akkor én vagyok felül
         bool iHitFromAbove = contact.normal.y > -0.5f;
 
         if (iHitFromAbove && rb.linearVelocity.y < 0f)
@@ -114,7 +140,15 @@ public class Player : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("MovingPlatform"))
         {
-            transform.SetParent(null);
+            if (collision.gameObject.activeInHierarchy)
+            {
+                transform.SetParent(null);
+            }
+        }
+
+        if (collision.gameObject.CompareTag("Ice"))
+        {
+            isOnIce = false;
         }
     }
 
@@ -122,18 +156,18 @@ public class Player : MonoBehaviour
 
     void HandleStomp(Player victim)
     {
-        // 1) Optional: ha szeretnéd, hogy a ráugró "rákapaszkodjon" a célpontra, beállíthatod parentként
+        
         // transform.SetParent(victim.transform);
 
-        // 2) Kapjon egy kis bounce-ot vissza
+        // egy kicsit visszapattan
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
         rb.AddForce(Vector2.up * stompBounce, ForceMode2D.Impulse);
 
-        // 3) Meghal a victim -> respawn
+        // Meghal akire ráugrottunk
         victim.Die();
     }
 
-    // Meghalás: respawn a mentett spawnponthoz, és unparent-eljük a gyerekeket
+    // Meghalás kezelése, inaktívvá tesszük majd 1 mp múlva meghíjuk rá a Respawn functiont
     public void Die()
     {
         rb.linearVelocity = Vector2.zero;
